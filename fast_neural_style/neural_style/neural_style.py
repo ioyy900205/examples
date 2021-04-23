@@ -222,6 +222,7 @@ def main():
 
     args = main_arg_parser.parse_args()
 
+
     if args.subcommand is None:
         print("ERROR: specify either train or eval")
         sys.exit(1)
@@ -237,4 +238,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
