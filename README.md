@@ -22,7 +22,13 @@ A repository showcasing examples of using [PyTorch](https://github.com/pytorch/p
 
 Additionally, a list of good examples hosted in their own repositories:
 
+<<<<<<< HEAD
 - [Neural Machine Translation using sequence-to-sequence RNN with attention (OpenNMT)](https://github.com/OpenNMT/OpenNMT-py)<br>
 01<br>
 02<br>
 03
+=======
+- [Neural Machine Translation using sequence-to-sequence RNN with attention (OpenNMT)](https://github.com/OpenNMT/OpenNMT-py)
+01
+
+>>>>>>> parent of cb7417a (002)
