@@ -22,7 +22,7 @@ A repository showcasing examples of using [PyTorch](https://github.com/pytorch/p
 
 Additionally, a list of good examples hosted in their own repositories:
 
-- [Neural Machine Translation using sequence-to-sequence RNN with attention (OpenNMT)](https://github.com/OpenNMT/OpenNMT-py)
+- [Neural Machine Translation using sequence-to-sequence RNN with attention (OpenNMT)](https://github.com/OpenNMT/OpenNMT-py)<br>
 01<br>
 02<br>
 03
