@@ -15,3 +15,9 @@ fast_neural_style/saved_models.zip
 
 # vi backups
 *~
+
+.DS_Store
+*.tar
+*.tar
+*.pth
+*.jpg
