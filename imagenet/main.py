@@ -27,7 +27,7 @@ parser = argparse.ArgumentParser(description='PyTorch ImageNet Training')
 #                     help='path to dataset')
 parser.add_argument('--data',default='/media/data/data02/Imagenet2012/', metavar='DIR',
                      help='path to dataset')
-parser.add_argument('-a', '--arch', metavar='ARCH', default='resnet18',
+parser.add_argument('-a', '--arch', metavar='ARCH', default='resnet152',
                     choices=model_names,
                     help='model architecture: ' +
                         ' | '.join(model_names) +
